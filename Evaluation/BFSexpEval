@@ -1,5 +1,0 @@
-#!/bin/bash
-for ((i=1; i<=195; i++))
-do
-    python ~/DP_out_Sum/MainAlgorithms/BFSexp.py "$i" &
-done
