@@ -1,5 +1,0 @@
-#!/bin/bash
-for ((i=1; i<=150; i++))
-do
-    python ~/DP_out_Sum/MainAlgorithms/BFSmin.py "$i" &
-done
